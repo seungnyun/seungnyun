@@ -30,7 +30,7 @@
 
 #
 
-### 📞 Contect
+### 📞 Contact
 <a href="https://www.instagram.com/0_k._.sn/" rel="nofollow">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white">
 </a>
